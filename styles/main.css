@@ -1,0 +1,36 @@
+.nike {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 300px;
+    padding: 90px 90px;
+    
+}
+#para {
+    width: 300px;
+}
+
+#para1 {
+    font-weight: bold;
+}
+.my-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 200px;
+    margin-left: 100px;
+    padding: 50px;
+
+}
+.solution {
+    width: 300px;
+
+}
+footer>p {
+    text-align: center;
+}
+#art {
+    margin-top: 150px;
+}
+#de {
+    margin-top: 150px ;
+}
