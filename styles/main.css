@@ -3,7 +3,7 @@
     justify-content: space-between;
     margin-left: 200px;
     margin-right: 300px;
-    padding: 90px 90px;
+    padding: 120px 120px;
     
 }
 #para {
@@ -33,4 +33,11 @@ footer>p {
 }
 #de {
     margin-top: 150px ;
+}
+
+.ibc {
+    transform: rotate(90deg);
+    position: relative;
+    left: 120px;
+    bottom: 250px;
 }
